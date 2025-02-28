@@ -3,6 +3,8 @@
 Examen #1
 
 1. Diagrama UML E-R: Un diagrama con entidades, atributos y relaciones:
+![Diagrama E-R](CampusCar%20Diagrama.png)
+![Diagrama Conceptual](CampusCar%20DiagramaConceptual.png)
 2. Documentación: Un archivo PDF explicando el diseño de la base de datos:
 [📄 Ver CampusCar Juan Pinilla.pdf](CampusCar%20Juan%20Pinilla.pdf)
 3. SQL Script: entregar un script SQL para la creación de tablas y restricciones:
